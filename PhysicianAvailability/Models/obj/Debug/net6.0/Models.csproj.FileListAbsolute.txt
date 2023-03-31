@@ -1,0 +1,14 @@
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\bin\Debug\net6.0\Models.deps.json
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\bin\Debug\net6.0\Models.dll
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\bin\Debug\net6.0\Models.pdb
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\Models.dll
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\refint\Models.dll
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\Models.pdb
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\ref\Models.dll
