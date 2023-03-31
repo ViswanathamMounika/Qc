@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\Models\\Models.csproj": {}
+    "G:\\Qc\\PhysicianAvailability\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\Models\\Models.csproj": {
+    "G:\\Qc\\PhysicianAvailability\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\Models\\Models.csproj",
+        "projectUniqueName": "G:\\Qc\\PhysicianAvailability\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\Models\\Models.csproj",
+        "projectPath": "G:\\Qc\\PhysicianAvailability\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\Models\\obj\\",
+        "outputPath": "G:\\Qc\\PhysicianAvailability\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3875,11 +3875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\PhysicianAvailability\\PhysicianAvailability.csproj",
+      "projectUniqueName": "G:\\Qc\\PhysicianAvailability\\PhysicianAvailability\\PhysicianAvailability.csproj",
       "projectName": "PhysicianAvailability",
-      "projectPath": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\PhysicianAvailability\\PhysicianAvailability.csproj",
+      "projectPath": "G:\\Qc\\PhysicianAvailability\\PhysicianAvailability\\PhysicianAvailability.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\PhysicianAvailability\\obj\\",
+      "outputPath": "G:\\Qc\\PhysicianAvailability\\PhysicianAvailability\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3896,11 +3896,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\BussinessLogic\\BussinessLogic.csproj": {
-              "projectPath": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\BussinessLogic\\BussinessLogic.csproj"
+            "G:\\Qc\\PhysicianAvailability\\BussinessLogic\\BussinessLogic.csproj": {
+              "projectPath": "G:\\Qc\\PhysicianAvailability\\BussinessLogic\\BussinessLogic.csproj"
             },
-            "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\FluentAPI\\FluentAPI.csproj": {
-              "projectPath": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\FluentAPI\\FluentAPI.csproj"
+            "G:\\Qc\\PhysicianAvailability\\FluentAPI\\FluentAPI.csproj": {
+              "projectPath": "G:\\Qc\\PhysicianAvailability\\FluentAPI\\FluentAPI.csproj"
             }
           }
         }

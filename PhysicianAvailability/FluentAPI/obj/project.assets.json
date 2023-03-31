@@ -3534,11 +3534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\FluentAPI\\FluentAPI.csproj",
+      "projectUniqueName": "G:\\Qc\\PhysicianAvailability\\FluentAPI\\FluentAPI.csproj",
       "projectName": "FluentAPI",
-      "projectPath": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\FluentAPI\\FluentAPI.csproj",
+      "projectPath": "G:\\Qc\\PhysicianAvailability\\FluentAPI\\FluentAPI.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\FluentAPI\\obj\\",
+      "outputPath": "G:\\Qc\\PhysicianAvailability\\FluentAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3555,8 +3555,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\Models\\Models.csproj": {
-              "projectPath": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\Models\\Models.csproj"
+            "G:\\Qc\\PhysicianAvailability\\Models\\Models.csproj": {
+              "projectPath": "G:\\Qc\\PhysicianAvailability\\Models\\Models.csproj"
             }
           }
         }

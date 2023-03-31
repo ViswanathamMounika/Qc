@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FmWwmoNsG3l4aSxnn/RvNvo/OW/Di6Zv6vd4VckDZNfmzyGFGuNUwjhVuYx+nxPzoMJuERr48Fiw1SRN3PlS2g==",
+  "dgSpecHash": "teKkz8soIj58NV5YWhZX2zWkybDu6jFbKte0zmX9KUUPLaUipNtdgnIj23XDeWaitZtX7vpRBeOGCI+DpafMGA==",
   "success": true,
-  "projectFilePath": "C:\\poseidon-programs\\Physician_Availability\\Poseidonavailablity\\PhysicianAvailability\\BussinessLogic\\BussinessLogic.csproj",
+  "projectFilePath": "G:\\Qc\\PhysicianAvailability\\BussinessLogic\\BussinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
