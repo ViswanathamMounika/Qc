@@ -12,3 +12,17 @@ C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailab
 C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\Models.pdb
 C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
 C:\poseidon-programs\Physician_Availability\Poseidonavailablity\PhysicianAvailability\Models\obj\Debug\net6.0\ref\Models.dll
+G:\Qc\Models\bin\Debug\net6.0\Models.deps.json
+G:\Qc\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+G:\Qc\Models\bin\Debug\net6.0\Models.dll
+G:\Qc\Models\bin\Debug\net6.0\Models.pdb
+G:\Qc\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+G:\Qc\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\Qc\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+G:\Qc\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+G:\Qc\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+G:\Qc\Models\obj\Debug\net6.0\Models.dll
+G:\Qc\Models\obj\Debug\net6.0\refint\Models.dll
+G:\Qc\Models\obj\Debug\net6.0\Models.pdb
+G:\Qc\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+G:\Qc\Models\obj\Debug\net6.0\ref\Models.dll
