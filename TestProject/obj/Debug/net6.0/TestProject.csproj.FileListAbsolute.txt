@@ -167,3 +167,6 @@ G:\Qc\TestProject\obj\Debug\net6.0\refint\TestProject.dll
 G:\Qc\TestProject\obj\Debug\net6.0\TestProject.pdb
 G:\Qc\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
 G:\Qc\TestProject\obj\Debug\net6.0\ref\TestProject.dll
+G:\Qc\TestProject\bin\Debug\net6.0\nunit.framework.dll
+G:\Qc\TestProject\bin\Debug\net6.0\Serilog.dll
+G:\Qc\TestProject\bin\Debug\net6.0\Serilog.Sinks.NUnit.dll
