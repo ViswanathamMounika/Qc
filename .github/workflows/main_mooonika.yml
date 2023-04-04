@@ -23,14 +23,14 @@ jobs:
       uses: docker/login-action@v1
       with:
         registry: https://mounikaregistry.azurecr.io/
-        username: ${{ secrets.AzureAppService_ContainerUsername_e7b876b969db43a0a7fcf061b80026ab }}
-        password: ${{ secrets.AzureAppService_ContainerPassword_19e84458b50644d1a918e75745e5e0f5 }}
+        username: ${{ secrets.AzureAppService_ContainerUsername_0e1da01652264f44886cbd8f9b1ee9da }}
+        password: ${{ secrets.AzureAppService_ContainerPassword_5a5753c9bdd6439f9488c52cf8290e4d }}
 
     - name: Build and push container image to registry
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: mounikaregistry.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_e7b876b969db43a0a7fcf061b80026ab }}/mounikaregistry/mounikaimg:${{ github.sha }}
+        tags: mounikaregistry.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_0e1da01652264f44886cbd8f9b1ee9da }}/mounikaregistry/mounikaregistry/mounikaimg:${{ github.sha }}
         file: ./Dockerfile
 
   deploy:
@@ -47,5 +47,5 @@ jobs:
       with:
         app-name: 'mooonika'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ff852c52029b46f797d002dc0ec95360 }}
-        images: 'mounikaregistry.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_e7b876b969db43a0a7fcf061b80026ab }}/mounikaregistry/mounikaimg:${{ github.sha }}'
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_380fe6e87a874b5dba7d569e00a6a9b1 }}
+        images: 'mounikaregistry.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_0e1da01652264f44886cbd8f9b1ee9da }}/mounikaregistry/mounikaregistry/mounikaimg:${{ github.sha }}'
